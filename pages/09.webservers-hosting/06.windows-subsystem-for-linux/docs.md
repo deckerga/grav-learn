@@ -14,7 +14,7 @@ You can:
 - Invoke Windows applications using a Unix-like command-line shell.
 - Invoke GNU/Linux applications on Windows.
 
-For more information visit: [Windows Subsustem for Linux Documentation](https://docs.microsoft.com/en-us/windows/wsl/about)
+For more information visit: [Windows Subsystem for Linux Documentation](https://docs.microsoft.com/en-us/windows/wsl/about)
 
 ## Installing Windows Subsystem for Linux
 The installation of *Windows Subsystem for Linux* is well described by Microsoft's own document [Install the Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install-win10?target=_blank).
