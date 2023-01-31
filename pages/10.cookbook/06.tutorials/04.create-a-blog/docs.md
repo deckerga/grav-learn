@@ -13,7 +13,7 @@ How do you check if your theme already provides a blog page template? Go in the 
 
 If you’ve already chosen a theme, and your theme does not come with those files, then copy them from Antimatter: [https://github.com/getgrav/grav-theme-antimatter/tree/develop/templates](https://github.com/getgrav/grav-theme-antimatter/tree/develop/templates)
 
-You might need to tweak the markup to suit your theme. The best option if you’re just starting out if to use a theme that already comes with them.
+You might need to tweak the markup to suit your theme. The best option if you’re just starting out is to use a theme that already comes with them.
 
 ## Create the blog pages structure
 There are different ways to structure the pages. The default and simpler one is to have a parent page, of type Blog, and have child pages for the blog posts.
